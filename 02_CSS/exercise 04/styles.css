@@ -1,0 +1,23 @@
+.panel{
+    padding: 0.5em;
+    background-color: whitesmoke;
+    box-shadow: 2px 2px 3px gray;
+    margin: 10px auto;
+    border-left: 0.5em solid  green;
+    width: 80%;
+}
+
+.panel> h3{
+    text-transform: uppercase;
+    font-family: 'Baloo Tammudu', cursive;
+    font-weight: 400;
+    margin-bottom: 0.5em;
+}
+
+.panel> h2 ,.panel>h3{
+    margin: 0;
+}
+
+.panel:hover{
+    
+}
